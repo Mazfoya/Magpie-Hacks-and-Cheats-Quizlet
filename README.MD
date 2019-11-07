@@ -2,5 +2,5 @@
 Insert description
 #
 [All scripts](https://github.com/Mazfoya/Magpie-Hacks-and-Cheats-Quizlet/tree/master/Scripts)
-#
-[Quizlet]()
+# Script list
+[Quizlet](https://github.com/Mazfoya/Magpie-Scripts/blob/master/Scripts/Quizlet)
